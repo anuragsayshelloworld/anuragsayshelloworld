@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sanjeev Giri and I'm a Student</p>
+<p align="left">My name is Anurag Acharya and I'm a Fullstack developer</p>
 
 ###
 
@@ -11,9 +11,9 @@
 ###
 
 <p align="left">
-📚 I'm currently learning Typescript <br>
-✨ I'm looking to collaborate on MERN projects <br>
-📫 How to reach me: girisanjib191@gmail.com
+📚 I'm currently interning at Goodwish Engineering<br>
+✨ I'm also working on a documentation and collaboration tool<br>
+📫 How to reach me: anuragsayshelloworld@gmail.com
 </p>
 
 ###
